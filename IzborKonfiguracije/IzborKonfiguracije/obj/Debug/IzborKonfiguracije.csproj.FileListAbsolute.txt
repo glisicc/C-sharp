@@ -1,0 +1,12 @@
+D:\vs_programi\IzborKonfiguracije\IzborKonfiguracije\bin\Debug\IzborKonfiguracije.exe.config
+D:\vs_programi\IzborKonfiguracije\IzborKonfiguracije\bin\Debug\IzborKonfiguracije.exe
+D:\vs_programi\IzborKonfiguracije\IzborKonfiguracije\bin\Debug\IzborKonfiguracije.pdb
+D:\vs_programi\IzborKonfiguracije\IzborKonfiguracije\obj\Debug\IzborKonfiguracije.csprojAssemblyReference.cache
+D:\vs_programi\IzborKonfiguracije\IzborKonfiguracije\obj\Debug\IzborKonfiguracije.Form1.resources
+D:\vs_programi\IzborKonfiguracije\IzborKonfiguracije\obj\Debug\IzborKonfiguracije.Properties.Resources.resources
+D:\vs_programi\IzborKonfiguracije\IzborKonfiguracije\obj\Debug\IzborKonfiguracije.csproj.GenerateResource.cache
+D:\vs_programi\IzborKonfiguracije\IzborKonfiguracije\obj\Debug\IzborKonfiguracije.csproj.CoreCompileInputs.cache
+D:\vs_programi\IzborKonfiguracije\IzborKonfiguracije\obj\Debug\IzborKonfiguracije.exe
+D:\vs_programi\IzborKonfiguracije\IzborKonfiguracije\obj\Debug\IzborKonfiguracije.pdb
+D:\vs_programi\IzborKonfiguracije\IzborKonfiguracije\obj\Debug\IzborKonfiguracije.Form2.resources
+D:\vs_programi\IzborKonfiguracije\IzborKonfiguracije\obj\Debug\IzborKonfiguracije.Form3.resources
